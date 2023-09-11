@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CALKU.MainPage"
+              Title="Login to CALKU">
+    <VerticalStackLayout Margin=" 50" HorizontalOptions="Fill">
+
+        <StackLayout Padding="10">
+            <Image Source="logo.png" 
+                   WidthRequest="200"
+                   HeightRequest="200"
+                   Margin="0,0,0,30"
+                   HorizontalOptions="Center"/>
+
+
+            <Entry x:Name="txtUserName"
+                   Placeholder="User Name: "
+                   Margin="10"></Entry>
+
+
+            <Entry x:Name="txtPassword"
+                   Placeholder="Password: "
+                   Margin="10,0,0,20"></Entry>
+
+            <Button x:Name="btnLogin" 
+                    Text="Login"
+                    Clicked="btnLogin_Clicked"
+                    WidthRequest="250"
+                    HeightRequest="50"
+                    BorderColor="Black"
+                    HorizontalOptions="Center" >
+
+            </Button>
+
+            <Label 
+                Text="Do not have an account? "
+                Margin="0,180,0,0"
+                HorizontalOptions="Center"
+                FontAttributes="Bold"/>
+            <Button
+                x:Name="btnRegister"
+                Text=" Tap to REGISTER"
+                FontAttributes="Bold"
+                FontSize="Medium"
+                TextColor="{x:StaticResource Primary}"
+                Clicked="btnRegister_Clicked"
+                BackgroundColor="White"/>
+
+        </StackLayout>
+
+    </VerticalStackLayout>
+</ContentPage>

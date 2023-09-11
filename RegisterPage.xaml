@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CALKU.RegisterPage"
+             Title="Register to CALKU">
+
+    <VerticalStackLayout Margin="30" HorizontalOptions="Fill">
+
+        <StackLayout Padding="10">
+            <Image Source="logo.png" 
+                   WidthRequest="200"
+                   HeightRequest="200"
+                   Margin="0,0,0,40"
+                   HorizontalOptions="Center"/>
+
+            <Label
+                    Text="Enter your User Name: "
+                    FontSize="15"
+                    Margin="12,0,10,0"
+                    FontAttributes="Bold"/>
+
+            <Entry x:Name="txtUserName"
+                       Placeholder="User Name: "
+                       Margin="10,0,0,10"
+                       ></Entry>
+            <Label
+                    Text="Enter your Password: "
+                    FontSize="15"
+                    Margin="12,0,10,0"
+                    FontAttributes="Bold"/>
+            <Entry x:Name="txtPassword"
+                       Placeholder="Password: "
+                       Margin="10,0,0,10"
+                       ></Entry>
+            <Label
+                    Text="Enter your Email: "
+                    FontSize="15"
+                    Margin="12,0,10,0"
+                    FontAttributes="Bold"/>
+            <Entry x:Name="txtEmail"
+                       Placeholder="Email: "
+                       Margin="10,0,0,10"
+                       ></Entry>
+
+            <Button x:Name="btnRegister" 
+                        Text="Register"
+                        Clicked="btnRegister_Clicked"
+                        WidthRequest="250"
+                        HeightRequest="50"
+                        BorderColor="Black"
+                        HorizontalOptions="Center">
+
+            </Button>
+
+            <Label 
+                Text="Already have an account? "
+                Margin="0,100,0,0"
+                HorizontalOptions="Center"
+                FontAttributes="Bold"/>
+            <Button
+                x:Name="btnLogin"
+                Text=" Tap to LOGIN"
+                FontAttributes="Bold"
+                FontSize="Medium"
+                TextColor="{x:StaticResource Primary}"
+                Clicked="btnLogin_Clicked"
+                BackgroundColor="White"/>
+        </StackLayout>
+
+    </VerticalStackLayout>
+</ContentPage>

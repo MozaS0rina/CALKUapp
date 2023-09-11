@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CALKU.CGPA"
+             xmlns:local="clr-namespace:CALKU"
+             Title="Cumulative GPA">
+    <ScrollView>
+        <VerticalStackLayout
+            Spacing="29"
+            Padding="10,0,10,0"
+            VerticalOptions="Center">
+
+            <Image 
+                Source="logo1.png"
+                Aspect="AspectFill"
+                SemanticProperties.Description="Logo of Alku!"
+                HeightRequest="280"
+                WidthRequest="395"
+                HorizontalOptions="Center" 
+                Margin="0,0,0,10"
+                />
+           
+            <Slider Minimum="0" Maximum="1" 
+                    BackgroundColor="#f5a52c"
+                    ThumbColor="#f5a52c"
+                    WidthRequest="300"
+                    HeightRequest="12"
+                    Margin="0,0,0,0"
+                    />
+            <Label
+                Text="Are you ready to find your CGPA? Click below to find your score on this year!"
+                SemanticProperties.HeadingLevel="Level1"
+                Padding="10,0,0,0"
+                FontSize="18"
+                TextColor="#1a0457"
+                HorizontalTextAlignment="Center"
+                FlexLayout.AlignSelf="Center"
+                HorizontalOptions="Center" />
+            <Button
+                x:Name="ReadyCGPABtn"
+                Text="Let's find out the CGPA!"
+                SemanticProperties.Hint="readybutton"
+                Clicked="BtnCalcCGPA"
+                HorizontalOptions="Center"
+                BackgroundColor="#3583e8"
+                WidthRequest="250"
+                HeightRequest="50"
+                BorderColor="Black"/>
+            <Button
+                x:Name="ReadyGradeForCGPABtn"
+                Text="Equivalent grade for the CGPA"
+                SemanticProperties.Hint="readygradebutton"
+                Clicked="BtnCalcGradeForCGPA"
+                HorizontalOptions="Center"
+                BackgroundColor="#3583e8"
+                WidthRequest="250"
+                HeightRequest="50"
+                BorderColor="Black"/>
+
+            <Slider Minimum="0" Maximum="1" 
+                    BackgroundColor="#f5a52c"
+                    ThumbColor="#f5a52c"
+                    WidthRequest="300"
+                    HeightRequest="12"
+                    Margin="0,10,0,0"/>
+            <Button
+                x:Name="ReturntoHomepg"
+                Text="Return to Home"
+                SemanticProperties.Hint="homebutton"
+                Clicked="BtnReturnHome"
+                HorizontalOptions="Center"
+                Margin="0,0,0,0"
+                WidthRequest="250"
+                HeightRequest="50"
+                BorderColor="Black"/>
+
+            <Label Text="*App offered by Alanya Alaadin Keykubat University"
+                   TextColor="Black"
+                   FontSize="10"
+                   FontAttributes="Italic"
+                   HorizontalTextAlignment="Center"
+                   Margin="0,0,0,10"
+                   FlexLayout.AlignSelf="Center"
+                   HorizontalOptions="Center"
+                   />
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

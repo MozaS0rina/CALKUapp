@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CALKU.Home"
+             Title="Home">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="{OnPlatform Default='Logout'}"
+                     Clicked="BtnLogout"/>
+    </ContentPage.ToolbarItems>
+    <ScrollView>
+        <VerticalStackLayout
+            Spacing="29"
+            Padding="10,0,10,0"
+            VerticalOptions="Center">
+
+            <Image 
+                Source="logo1.png"
+                Aspect="AspectFill"
+                SemanticProperties.Description="Logo of Alku!"
+                HeightRequest="280"
+                WidthRequest="395"
+                HorizontalOptions="Center" 
+                />
+            <Label
+                Text="Welcome to CALKU!"
+                SemanticProperties.HeadingLevel="Level1"
+                Padding="0,0,0,0"
+                FontSize="18"
+                FontAttributes="Bold"
+                TextColor="#1a0457"
+                HorizontalTextAlignment="Center"
+                FlexLayout.AlignSelf="Center"
+                HorizontalOptions="Center"/>
+            <Slider Minimum="0" Maximum="1" 
+                    BackgroundColor="#f5a52c"
+                    ThumbColor="#f5a52c"
+                    WidthRequest="300"
+                    HeightRequest="12"
+                    />
+            <Label
+                Text="Calculate your universitary averages with style and enjoy the simplicity of the CALKU application!"
+                SemanticProperties.HeadingLevel="Level1"
+                Padding="10,0,0,0"
+                FontSize="18"
+                TextColor="#1a0457"
+                HorizontalTextAlignment="Center"
+                FlexLayout.AlignSelf="Center"
+                HorizontalOptions="Center" />
+
+
+            <Slider Minimum="0" Maximum="1" 
+                    BackgroundColor="#f5a52c"
+                    ThumbColor="#f5a52c"
+                    WidthRequest="300"
+                    HeightRequest="12"/>
+
+            <Button
+                x:Name="Subjects"
+                Text="First Semester Subjects"
+                SemanticProperties.Hint="Sem1  subj button"
+                Clicked="BtnSubjectsClicked"
+                HorizontalOptions="Center" 
+                BackgroundColor="#3583e8"
+                BorderColor="Black"
+                WidthRequest="250"
+                HeightRequest="50"/>
+            <Button
+                x:Name="Subjects2"
+                Text="Second Semester Subjects"
+                SemanticProperties.Hint="Sem2  subj button"
+                Clicked="BtnSubjects2Clicked"
+                HorizontalOptions="Center" 
+                BackgroundColor="#3583e8"
+                BorderColor="Black"
+                WidthRequest="250"
+                HeightRequest="50"/>
+            <Button
+                x:Name="CGPA"
+                Text="Calculate CGPA"
+                SemanticProperties.Hint="CGPA button"
+                Clicked="BtnCGPA_clicked"
+                HorizontalOptions="Center" 
+                BorderColor="Black"
+                WidthRequest="250"
+                HeightRequest="50"/>
+            
+
+            <Label Text="*App offered by Alanya Alaadin Keykubat University"
+                   TextColor="Black"
+                   FontSize="10"
+                   FontAttributes="Italic"
+                   HorizontalTextAlignment="Center"
+                   Margin="0,0,0,10"
+                   FlexLayout.AlignSelf="Center"
+                   HorizontalOptions="Center"
+                   />
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>
