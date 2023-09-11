@@ -1,0 +1,78 @@
+C:\Users\sorin\OneDrive\Desktop\alku with login\CALKU\LoginAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\sorin\OneDrive\Desktop\alku with login\CALKU\LoginAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\sorin\OneDrive\Desktop\alku with login\CALKU\LoginAPI\bin\Debug\net7.0\LoginAPI.exe
+C:\Users\sorin\OneDrive\Desktop\alku with login\CALKU\LoginAPI\bin\Debug\net7.0\LoginAPI.deps.json
+C:\Users\sorin\OneDrive\Desktop\alku with login\CALKU\LoginAPI\bin\Debug\net7.0\LoginAPI.runtimeconfig.json
+C:\Users\sorin\OneDrive\Desktop\alku with login\CALKU\LoginAPI\bin\Debug\net7.0\LoginAPI.dll
+C:\Users\sorin\OneDrive\Desktop\alku with login\CALKU\LoginAPI\bin\Debug\net7.0\LoginAPI.pdb
+C:\Users\sorin\OneDrive\Desktop\alku with login\CALKU\LoginAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\sorin\OneDrive\Desktop\alku with login\CALKU\LoginAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\sorin\OneDrive\Desktop\alku with login\CALKU\LoginAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sorin\OneDrive\Desktop\alku with login\CALKU\LoginAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sorin\OneDrive\Desktop\alku with login\CALKU\LoginAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sorin\OneDrive\Desktop\alku with login\CALKU\LoginAPI\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\sorin\OneDrive\Desktop\alku with login\CALKU\LoginAPI\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\sorin\OneDrive\Desktop\alku with login\CALKU\LoginAPI\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\sorin\OneDrive\Desktop\alku with login\CALKU\LoginAPI\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\sorin\OneDrive\Desktop\alku with login\CALKU\LoginAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sorin\OneDrive\Desktop\alku with login\CALKU\LoginAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sorin\OneDrive\Desktop\alku with login\CALKU\LoginAPI\obj\Debug\net7.0\LoginAPI.csproj.AssemblyReference.cache
+C:\Users\sorin\OneDrive\Desktop\alku with login\CALKU\LoginAPI\obj\Debug\net7.0\LoginAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sorin\OneDrive\Desktop\alku with login\CALKU\LoginAPI\obj\Debug\net7.0\LoginAPI.AssemblyInfoInputs.cache
+C:\Users\sorin\OneDrive\Desktop\alku with login\CALKU\LoginAPI\obj\Debug\net7.0\LoginAPI.AssemblyInfo.cs
+C:\Users\sorin\OneDrive\Desktop\alku with login\CALKU\LoginAPI\obj\Debug\net7.0\LoginAPI.csproj.CoreCompileInputs.cache
+C:\Users\sorin\OneDrive\Desktop\alku with login\CALKU\LoginAPI\obj\Debug\net7.0\LoginAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sorin\OneDrive\Desktop\alku with login\CALKU\LoginAPI\obj\Debug\net7.0\LoginAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sorin\OneDrive\Desktop\alku with login\CALKU\LoginAPI\obj\Debug\net7.0\staticwebassets\msbuild.LoginAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sorin\OneDrive\Desktop\alku with login\CALKU\LoginAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.LoginAPI.props
+C:\Users\sorin\OneDrive\Desktop\alku with login\CALKU\LoginAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.LoginAPI.props
+C:\Users\sorin\OneDrive\Desktop\alku with login\CALKU\LoginAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.LoginAPI.props
+C:\Users\sorin\OneDrive\Desktop\alku with login\CALKU\LoginAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\sorin\OneDrive\Desktop\alku with login\CALKU\LoginAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\sorin\OneDrive\Desktop\alku with login\CALKU\LoginAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\sorin\OneDrive\Desktop\alku with login\CALKU\LoginAPI\obj\Debug\net7.0\scopedcss\bundle\LoginAPI.styles.css
+C:\Users\sorin\OneDrive\Desktop\alku with login\CALKU\LoginAPI\obj\Debug\net7.0\LoginAPI.csproj.CopyComplete
+C:\Users\sorin\OneDrive\Desktop\alku with login\CALKU\LoginAPI\obj\Debug\net7.0\LoginAPI.dll
+C:\Users\sorin\OneDrive\Desktop\alku with login\CALKU\LoginAPI\obj\Debug\net7.0\refint\LoginAPI.dll
+C:\Users\sorin\OneDrive\Desktop\alku with login\CALKU\LoginAPI\obj\Debug\net7.0\LoginAPI.pdb
+C:\Users\sorin\OneDrive\Desktop\alku with login\CALKU\LoginAPI\obj\Debug\net7.0\LoginAPI.genruntimeconfig.cache
+C:\Users\sorin\OneDrive\Desktop\alku with login\CALKU\LoginAPI\obj\Debug\net7.0\ref\LoginAPI.dll
+C:\Users\sorin\OneDrive\Desktop\alku\aplicatii alku\alku with login\CALKU\LoginAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\sorin\OneDrive\Desktop\alku\aplicatii alku\alku with login\CALKU\LoginAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\sorin\OneDrive\Desktop\alku\aplicatii alku\alku with login\CALKU\LoginAPI\bin\Debug\net7.0\LoginAPI.exe
+C:\Users\sorin\OneDrive\Desktop\alku\aplicatii alku\alku with login\CALKU\LoginAPI\bin\Debug\net7.0\LoginAPI.deps.json
+C:\Users\sorin\OneDrive\Desktop\alku\aplicatii alku\alku with login\CALKU\LoginAPI\bin\Debug\net7.0\LoginAPI.runtimeconfig.json
+C:\Users\sorin\OneDrive\Desktop\alku\aplicatii alku\alku with login\CALKU\LoginAPI\bin\Debug\net7.0\LoginAPI.dll
+C:\Users\sorin\OneDrive\Desktop\alku\aplicatii alku\alku with login\CALKU\LoginAPI\bin\Debug\net7.0\LoginAPI.pdb
+C:\Users\sorin\OneDrive\Desktop\alku\aplicatii alku\alku with login\CALKU\LoginAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\sorin\OneDrive\Desktop\alku\aplicatii alku\alku with login\CALKU\LoginAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\sorin\OneDrive\Desktop\alku\aplicatii alku\alku with login\CALKU\LoginAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sorin\OneDrive\Desktop\alku\aplicatii alku\alku with login\CALKU\LoginAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sorin\OneDrive\Desktop\alku\aplicatii alku\alku with login\CALKU\LoginAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sorin\OneDrive\Desktop\alku\aplicatii alku\alku with login\CALKU\LoginAPI\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\sorin\OneDrive\Desktop\alku\aplicatii alku\alku with login\CALKU\LoginAPI\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\sorin\OneDrive\Desktop\alku\aplicatii alku\alku with login\CALKU\LoginAPI\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\sorin\OneDrive\Desktop\alku\aplicatii alku\alku with login\CALKU\LoginAPI\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\sorin\OneDrive\Desktop\alku\aplicatii alku\alku with login\CALKU\LoginAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sorin\OneDrive\Desktop\alku\aplicatii alku\alku with login\CALKU\LoginAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sorin\OneDrive\Desktop\alku\aplicatii alku\alku with login\CALKU\LoginAPI\obj\Debug\net7.0\LoginAPI.csproj.AssemblyReference.cache
+C:\Users\sorin\OneDrive\Desktop\alku\aplicatii alku\alku with login\CALKU\LoginAPI\obj\Debug\net7.0\LoginAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sorin\OneDrive\Desktop\alku\aplicatii alku\alku with login\CALKU\LoginAPI\obj\Debug\net7.0\LoginAPI.AssemblyInfoInputs.cache
+C:\Users\sorin\OneDrive\Desktop\alku\aplicatii alku\alku with login\CALKU\LoginAPI\obj\Debug\net7.0\LoginAPI.AssemblyInfo.cs
+C:\Users\sorin\OneDrive\Desktop\alku\aplicatii alku\alku with login\CALKU\LoginAPI\obj\Debug\net7.0\LoginAPI.csproj.CoreCompileInputs.cache
+C:\Users\sorin\OneDrive\Desktop\alku\aplicatii alku\alku with login\CALKU\LoginAPI\obj\Debug\net7.0\LoginAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sorin\OneDrive\Desktop\alku\aplicatii alku\alku with login\CALKU\LoginAPI\obj\Debug\net7.0\LoginAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sorin\OneDrive\Desktop\alku\aplicatii alku\alku with login\CALKU\LoginAPI\obj\Debug\net7.0\staticwebassets\msbuild.LoginAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sorin\OneDrive\Desktop\alku\aplicatii alku\alku with login\CALKU\LoginAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.LoginAPI.props
+C:\Users\sorin\OneDrive\Desktop\alku\aplicatii alku\alku with login\CALKU\LoginAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.LoginAPI.props
+C:\Users\sorin\OneDrive\Desktop\alku\aplicatii alku\alku with login\CALKU\LoginAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.LoginAPI.props
+C:\Users\sorin\OneDrive\Desktop\alku\aplicatii alku\alku with login\CALKU\LoginAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\sorin\OneDrive\Desktop\alku\aplicatii alku\alku with login\CALKU\LoginAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\sorin\OneDrive\Desktop\alku\aplicatii alku\alku with login\CALKU\LoginAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\sorin\OneDrive\Desktop\alku\aplicatii alku\alku with login\CALKU\LoginAPI\obj\Debug\net7.0\scopedcss\bundle\LoginAPI.styles.css
+C:\Users\sorin\OneDrive\Desktop\alku\aplicatii alku\alku with login\CALKU\LoginAPI\obj\Debug\net7.0\LoginAPI.csproj.CopyComplete
+C:\Users\sorin\OneDrive\Desktop\alku\aplicatii alku\alku with login\CALKU\LoginAPI\obj\Debug\net7.0\LoginAPI.dll
+C:\Users\sorin\OneDrive\Desktop\alku\aplicatii alku\alku with login\CALKU\LoginAPI\obj\Debug\net7.0\refint\LoginAPI.dll
+C:\Users\sorin\OneDrive\Desktop\alku\aplicatii alku\alku with login\CALKU\LoginAPI\obj\Debug\net7.0\LoginAPI.pdb
+C:\Users\sorin\OneDrive\Desktop\alku\aplicatii alku\alku with login\CALKU\LoginAPI\obj\Debug\net7.0\LoginAPI.genruntimeconfig.cache
+C:\Users\sorin\OneDrive\Desktop\alku\aplicatii alku\alku with login\CALKU\LoginAPI\obj\Debug\net7.0\ref\LoginAPI.dll
